@@ -1,7 +1,7 @@
 Hi, I'm Ma Kou Lin.\
 I'm interested in building new software to incorporate into plant breeding.\
 I'm currently a botany senior in college.\
-I'm looking to learn more about coding as I'm a novice.a
+I'm looking to learn more about coding as I'm a novice.
 
 <!---
 FlamingAshes/FlamingAshes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
